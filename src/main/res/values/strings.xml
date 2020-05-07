@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz1</string>
+    <string-array name="pos_array">
+        <item>Fakultas Teknik dan Informatika</item>
+        <item>Fakultas Bisnis</item>
+        <item>Fakultas Ilmu Komunikasi</item>
+        <item>Fakultas Seni dan Design</item>
+        <item>International Program</item>
+        <item>D3 Perhotelan</item>
+    </string-array>
+</resources>
